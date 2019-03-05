@@ -3,10 +3,14 @@ GrafoMagia
 
 Desarrollado por:  
 Hamil Santiago Teran Gomez
+
 Carlos Jose Sepulveda 
+
 Juan Manuel Lopez
 
+
 Algunas imágenes y contenidos son tomados y adaptados con licencias Creative Commons 
+
 Los usuarios que requieran de este contenido:
 Deberán reconocer los créditos de la forma especificada por los autor, 
 podrán copiar, distribuir, y comunicar públicamente, no podrán hacer uso comercial, ni cobrar por su acceso,
